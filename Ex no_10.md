@@ -12,11 +12,7 @@ To write a C program to find the factorial of a given number using a function wi
 6.End.
 Program:
 ```
-/*
-Program to find the factorial of a given number using a function with arguments and return type.
-Developed by:Santhosh kumar B 
-RegisterNumber: 212223060249
-*/
+
 #include <stdio.h> 
 int main() { 
     int n, i; 
