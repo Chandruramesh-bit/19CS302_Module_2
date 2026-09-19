@@ -5,16 +5,20 @@ To write a C program to find the sum of odd digits using do while loop.
 
 ## Algorithm
 1.Start the program. 
+
 2.Take input of a number num and initialize sum to 0. 
+
 3.Use a do-while loop to extract each digit of num. 
+
 4.Check if the digit is odd; if yes, add it to sum. 
+
 5.Print the sum and end the program.
 ## Program:
 ```
 /*
 Program to find the sum of odd digits using do while loop.
-Developed by:Santhosh kumar B 
-RegisterNumber:  212223060249
+Developed by: BADIMALA GURUCHARAN 
+RegisterNumber:  212223060026
 */
 #include <stdio.h>
 
