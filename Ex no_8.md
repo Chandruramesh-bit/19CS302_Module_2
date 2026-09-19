@@ -5,17 +5,21 @@ To write a C program to perform multiplication and division of two numbers using
 
 ## Algorithm
 1.Start the program. 
+
 2.Declare two global variables for the numbers.
+
 3.Create two functions — one for multiplication and one for division — without arguments and return type. 
+
 4.In main(), take input for the two numbers, then call both functions. 
+
 5.End the program.
 
 ## Program:
 ```
 /*
 Program to perform multiplication and division of two numbers using functions (without argument and without return type).
-Developed by: Santhosh kumar B
-RegisterNumber:  212223060249
+Developed by: BADIMALA GURUCHARAN
+RegisterNumber:  212223060026
 */
 #include <stdio.h>
 
